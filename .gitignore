@@ -12,7 +12,7 @@
 *.exe
 *.o
 *.so
-\target
+/target
 
 # Packages #
 ############
@@ -25,7 +25,7 @@
 *.jar
 *.rar
 *.tar
-*.zip
+
 
 # Logs and databases #
 ######################
